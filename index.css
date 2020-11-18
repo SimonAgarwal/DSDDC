@@ -1,0 +1,67 @@
+
+.Slides{
+    display:none;
+    width:500.15px;
+    height:179px;
+   
+}
+.logo{
+    width:100px;
+    height:100px;
+}
+.heading{
+    text-align:center;
+   
+}
+.header{
+    background-color: rgb(205, 220, 250);
+    font-family: 'Josefin Sans';
+}
+.navbar.navbar-expand-lg.navbar-light{
+    background-color: rgb(211, 222, 245);
+    margin-bottom:60px;
+}
+.contactForm{
+    font-family: 'Josefin Sans';
+}
+form{
+    width:350px;
+}
+.footer{
+    height:300px;
+ background-color:rgb(205, 220, 250);
+ font-family: 'Courier Prime', monospace;
+ font-size:15px;
+ text-align:center;
+ font-weight:450;
+ font-style:italic;
+}
+
+
+.insta{
+    color:rgb(237, 83, 152);
+}
+.fa{
+    font-size:20px;
+}
+.copyright{
+    font-size:15px;
+}
+.fa-copyright{
+    font-size:14px;
+}
+.Footerheading{
+    font-weight:600;
+    font-family: 'Open Sans', sans-serif;
+    font-style:italic;
+}
+.slideshow{
+    margin-bottom: 90px;
+}
+.card{
+    height:240px;
+    font-family: 'Dancing Script', cursive;
+    font-size:25px;
+    margin-bottom:60px;
+   
+}
