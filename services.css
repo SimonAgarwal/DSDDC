@@ -43,9 +43,7 @@ div.side{
     margin-top:10px;
     }
 
-    .subSection1 a:hover{
-       font-size:19px;
-    }
+    
 
 .fa.fa-angle-up{
     float:right;
@@ -74,6 +72,7 @@ div.side{
     margin-top:20px;
     font-family: 'Josefin Sans';
     font-size:17px;
+    line-height:2;
 }
 
 .w3-button.w3-xlarge.home-btn{
@@ -86,4 +85,36 @@ div.side{
     background-color: rgb(205, 220, 250);
 }
 
- 
+@media (max-width: 768px) {
+    .w3-bar-item.w3-button{
+        font-size:13px;
+       
+        }
+}
+
+@media (max-width: 768px) {
+    ul {
+        padding-left:8px;
+        font-size:11px;
+    }
+}
+
+@media (max-width: 768px) {
+    
+    .logo {
+        margin-bottom:15px;
+        margin-top:10px;
+    }
+    .header h3{
+        font-size: 20px;
+        
+    }
+    .header .contact{
+        float:right;
+        margin-top:15px;
+        font-size:13px;
+        margin-left:15px;
+    }
+   
+}
+
