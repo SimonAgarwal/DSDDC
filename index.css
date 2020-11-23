@@ -1,8 +1,8 @@
 
 .Slides{
     display:none;
-    width:500.15px;
-    height:179px;
+    width:569.15px;
+    height:310px;
    
 }
 .logo{
@@ -19,7 +19,7 @@
 }
 .navbar.navbar-expand-lg.navbar-light{
     background-color: rgb(211, 222, 245);
-    margin-bottom:60px;
+    margin-bottom:40px;
 }
 .contactForm{
     font-family: 'Josefin Sans';
@@ -56,7 +56,7 @@ form{
     font-style:italic;
 }
 .slideshow{
-    margin-bottom: 90px;
+    margin-bottom: 80px;
 }
 .card{
     height:240px;
@@ -64,4 +64,13 @@ form{
     font-size:25px;
     margin-bottom:60px;
    
+}
+
+
+div.navbar-nav{
+    width:100%;
+    display: flex;
+    justify-content: space-around;
+    font-size:20px;
+
 }

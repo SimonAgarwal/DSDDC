@@ -1,0 +1,87 @@
+
+.logo{
+    width:100px;
+    height:100px;
+}
+.heading{
+    text-align:center;
+   
+}
+.header{
+    background-color: rgb(205, 220, 250);
+    font-family: 'Josefin Sans';
+}
+div.side{
+    background-color: rgb(205, 220, 250);
+
+}
+.w3-button.w3-xlarge{
+    background-color: rgb(205, 220, 250);
+}
+#brand{
+    font-family: 'Josefin Sans';
+    margin-left:30px;
+}
+.w3-bar-item.w3-button{
+    font-family: 'Josefin Sans';
+    font-size:20px;
+   
+    }
+
+    .w3-bar-item.w3-button:hover{
+        text-decoration: none;
+    }
+
+    .subSection1 a{
+        color:black;
+    }
+
+.subSection1{
+    display:none;
+    font-family: 'Josefin Sans';
+    margin-top:10px;
+    }
+
+    .subSection1 a:hover{
+       font-size:19px;
+    }
+
+.fa.fa-angle-up{
+    float:right;
+    display:none;
+}
+.fa.fa-angle-down{
+    float:right;
+}
+
+.fa.fa-times{
+    float:right;
+}
+
+
+.subNav:hover .subSection1{
+     display:block;
+    }
+
+.subNav:hover .fa-angle-up{
+        display:block;
+       }
+.subNav:hover .fa-angle-down{
+    display:none;
+    }
+.sections{
+    margin-top:20px;
+    font-family: 'Josefin Sans';
+    font-size:17px;
+}
+
+.w3-button.w3-xlarge.home-btn{
+    float:right;
+    font-family: 'Josefin Sans';
+    margin-right:30px
+
+}
+.w3-sidebar.w3-bar-block.w3-card.w3-animate-left{
+    background-color: rgb(205, 220, 250);
+}
+
