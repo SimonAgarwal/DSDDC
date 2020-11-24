@@ -85,19 +85,9 @@ div.side{
     background-color: rgb(205, 220, 250);
 }
 
-@media (max-width: 768px) {
-    .w3-bar-item.w3-button{
-        font-size:13px;
-       
-        }
-}
 
-@media (max-width: 768px) {
-    ul {
-        padding-left:8px;
-        font-size:11px;
-    }
-}
+
+
 
 @media (max-width: 768px) {
     
