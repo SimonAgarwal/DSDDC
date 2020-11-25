@@ -1,8 +1,8 @@
 
 .Slides{
     display:none;
-    width:369.15px;
-    height:210px;
+    width:569.15px;
+    height:310px;
    
 }
 .logo{
@@ -76,12 +76,7 @@ div.navbar-nav{
 }
 
 @media (max-width: 768px) {
-    .Slides{
-        display:none;
-        width:369.15px;
-        height:210px;
-       
-    }
+    
     
     .logo {
         margin-bottom:15px;
