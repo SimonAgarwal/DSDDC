@@ -1,6 +1,7 @@
 
 .Slides{
     display:none;
+    object-fit:cover;
     width:569.15px;
     height:310px;
    
