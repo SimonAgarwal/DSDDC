@@ -77,6 +77,13 @@ div.navbar-nav{
 }
 
 @media (max-width: 768px) {
+    .Slides{
+        display:none;
+        object-fit:cover;
+        width:369.15px;
+        height:210px;
+       
+    }
     
     
     .logo {
